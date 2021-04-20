@@ -1,0 +1,4 @@
+#Mon Apr 19 11:59:51 CEST 2021
+base.0=/Users/adrian/Documents/Curso flutter/MultiWidgets/multiwidgets/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
